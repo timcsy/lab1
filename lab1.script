@@ -1,0 +1,11 @@
+Script started on 2016年03月05日 (週六) 16時08分59秒
+]0;F74046462@2015cpp: ~F74046462@2015cpp:~$ whoami;pwd
+F74046462
+/home/F74046462
+]0;F74046462@2015cpp: ~F74046462@2015cpp:~$ git config -l
+]0;F74046462@2015cpp: ~F74046462@2015cpp:~$ git clone https://github.com/timcsy/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046462@2015cpp: ~F74046462@2015cpp:~$ exit
+
+Script done on 2016年03月05日 (週六) 16時10分23秒
